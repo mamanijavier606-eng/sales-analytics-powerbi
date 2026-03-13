@@ -1,0 +1,41 @@
+VentaID,SaleDate,Quantity,UnitPrice,TotalVenta,ProductID,ProductName,PrecioLista,CategoriaID,Categoria,ClienteID,ClienteNombre,ClienteApellido,Email,Telefono
+1,2026-01-01,2,15000,30000,101,Notebook Lenovo,16000,1,Tecnologia,1,Juan,Perez,juan@gmail.com,3815000001
+2,2026-01-01,1,8000,8000,102,Tablet Samsung,8500,1,Tecnologia,2,Maria,Lopez,maria@gmail.com,3815000002
+3,2026-01-02,3,2000,6000,103,Mouse Logitech,2200,1,Tecnologia,3,Carlos,Gomez,carlos@gmail.com,3815000003
+4,2026-01-02,5,1200,6000,104,Teclado Redragon,1400,1,Tecnologia,4,Ana,Martinez,ana@gmail.com,3815000004
+5,2026-01-03,2,5000,10000,105,Monitor LG,5500,1,Tecnologia,5,Pedro,Diaz,pedro@gmail.com,3815000005
+6,2026-01-03,1,2500,2500,201,Silla Oficina,2800,2,Muebles,6,Lucia,Sosa,lucia@gmail.com,3815000006
+7,2026-01-04,2,7000,14000,202,Escritorio,7500,2,Muebles,7,Martin,Ruiz,martin@gmail.com,3815000007
+8,2026-01-04,1,4500,4500,203,Biblioteca,5000,2,Muebles,8,Sofia,Torres,sofia@gmail.com,3815000008
+9,2026-01-05,4,900,3600,204,Lampara LED,1000,2,Muebles,9,Diego,Flores,diego@gmail.com,3815000009
+10,2026-01-05,3,1500,4500,205,Mesa de luz,1700,2,Muebles,10,Carla,Vega,carla@gmail.com,3815000010
+11,2026-01-06,1,12000,12000,301,Smartphone Xiaomi,13000,3,Celulares,11,Lucas,Morales,lucas@gmail.com,3815000011
+12,2026-01-06,2,10000,20000,302,Smartphone Samsung,11000,3,Celulares,12,Laura,Castro,laura@gmail.com,3815000012
+13,2026-01-07,1,15000,15000,303,iPhone,16000,3,Celulares,13,Pablo,Silva,pablo@gmail.com,3815000013
+14,2026-01-07,2,3500,7000,304,Auriculares,4000,3,Celulares,14,Marta,Acosta,marta@gmail.com,3815000014
+15,2026-01-08,3,2000,6000,305,Cargador,2200,3,Celulares,15,Jose,Campos,jose@gmail.com,3815000015
+16,2026-01-08,2,1800,3600,401,Remera Nike,2000,4,Ropa,16,Andres,Benitez,andres@gmail.com,3815000016
+17,2026-01-09,1,5000,5000,402,Zapatillas Adidas,5500,4,Ropa,17,Valeria,Herrera,valeria@gmail.com,3815000017
+18,2026-01-09,3,2200,6600,403,Jean Levis,2500,4,Ropa,18,Fernando,Ramos,fernando@gmail.com,3815000018
+19,2026-01-10,2,3000,6000,404,Campera,3300,4,Ropa,19,Daniela,Rios,daniela@gmail.com,3815000019
+20,2026-01-10,4,900,3600,405,Medias,1000,4,Ropa,20,Bruno,Navarro,bruno@gmail.com,3815000020
+21,2026-01-11,1,1200,1200,501,Cuaderno,1300,5,Libreria,21,Natalia,Luna,natalia@gmail.com,3815000021
+22,2026-01-11,5,400,2000,502,Lapicera,500,5,Libreria,22,Sergio,Ortiz,sergio@gmail.com,3815000022
+23,2026-01-12,3,1500,4500,503,Agenda,1700,5,Libreria,23,Cecilia,Mendez,cecilia@gmail.com,3815000023
+24,2026-01-12,2,2200,4400,504,Mochila,2500,5,Libreria,24,Gonzalo,Paz,gonzalo@gmail.com,3815000024
+25,2026-01-13,1,6000,6000,505,Impresora HP,6500,5,Libreria,25,Marina,Farias,marina@gmail.com,3815000025
+26,2026-01-13,2,1800,3600,101,Notebook Lenovo,16000,1,Tecnologia,26,Oscar,Godoy,oscar@gmail.com,3815000026
+27,2026-01-14,1,8000,8000,102,Tablet Samsung,8500,1,Tecnologia,27,Paula,Suarez,paula@gmail.com,3815000027
+28,2026-01-14,3,2000,6000,103,Mouse Logitech,2200,1,Tecnologia,28,Ivan,Correa,ivan@gmail.com,3815000028
+29,2026-01-15,2,5000,10000,105,Monitor LG,5500,1,Tecnologia,29,Julieta,Roldan,julieta@gmail.com,3815000029
+30,2026-01-15,1,7000,7000,202,Escritorio,7500,2,Muebles,30,Raul,Peralta,raul@gmail.com,3815000030
+31,2026-01-16,1,12000,12000,301,Smartphone Xiaomi,13000,3,Celulares,31,Ariel,Ledesma,ariel@gmail.com,3815000031
+32,2026-01-16,2,3500,7000,304,Auriculares,4000,3,Celulares,32,Lorena,Quiroga,lorena@gmail.com,3815000032
+33,2026-01-17,3,2000,6000,305,Cargador,2200,3,Celulares,33,Victor,Juarez,victor@gmail.com,3815000033
+34,2026-01-17,1,5000,5000,402,Zapatillas Adidas,5500,4,Ropa,34,Silvia,Aguilar,silvia@gmail.com,3815000034
+35,2026-01-18,2,3000,6000,404,Campera,3300,4,Ropa,35,Ricardo,Escobar,ricardo@gmail.com,3815000035
+36,2026-01-18,5,400,2000,502,Lapicera,500,5,Libreria,36,Daniel,Cardozo,daniel@gmail.com,3815000036
+37,2026-01-19,3,1500,4500,503,Agenda,1700,5,Libreria,37,Carolina,Villalba,carolina@gmail.com,3815000037
+38,2026-01-19,1,6000,6000,505,Impresora HP,6500,5,Libreria,38,Roberto,Salas,roberto@gmail.com,3815000038
+39,2026-01-20,2,1800,3600,401,Remera Nike,2000,4,Ropa,39,Patricia,Campos,patricia@gmail.com,3815000039
+40,2026-01-20,4,900,3600,405,Medias,1000,4,Ropa,40,Hector,Bravo,hector@gmail.com,3815000040
